@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://maralightltd.com/sitemap.xml
